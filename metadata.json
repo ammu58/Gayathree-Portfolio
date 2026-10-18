@@ -1,0 +1,6 @@
+{
+  "name": "portfolio",
+  "description": "Recruiter-ready engineering portfolio of Gayathree Singareddy, B.Tech CSE (AI) student specializing in Generative AI, RAG architectures, and full-stack software development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
