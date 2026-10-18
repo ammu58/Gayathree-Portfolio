@@ -107,7 +107,7 @@ export const PORTFOLIO_DATA = {
       githubUrl: 'https://github.com/ammu58',
       demoAvailable: true,
       demoType: 'rag',
-      imageUrl: '/src/assets/images/project_rag_assistant_1792318322368.jpg',
+      imageUrl: '/images/profile1.png',
     },
     {
       id: 'dopply-tryon',
@@ -134,7 +134,7 @@ export const PORTFOLIO_DATA = {
       githubUrl: 'https://github.com/ammu58',
       demoAvailable: true,
       demoType: 'tryon',
-      imageUrl: '/src/assets/images/project_dopply_tryon_1792318320580.jpg',
+      imageUrl: '/images/profile2.png',
     },
     {
       id: 'style-ecommerce',
@@ -161,7 +161,7 @@ export const PORTFOLIO_DATA = {
       githubUrl: 'https://github.com/ammu58',
       demoAvailable: true,
       demoType: 'ecommerce',
-      imageUrl: '/src/assets/images/project_style_ecommerce_1792318322211.jpg',
+      imageUrl: '/images/profile3.png',
     },
   ] as Project[],
   skills: {
